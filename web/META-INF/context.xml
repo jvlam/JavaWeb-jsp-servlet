@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context path="/SE1606_T4S4_JSP_JSTL">
+  <Resource authen="Container" 
+            driverClassName="com.microsoft.sqlserver.jdbc.SQLServerDriver" name="DataSource" password="12345" type="javax.sql.DataSource" url="jdbc:sqlserver://localhost:1433;databaseName=ShoppingCartAss" username="sa">
+        
+    </Resource>
+</Context>
